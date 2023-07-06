@@ -1,6 +1,5 @@
-# CimpilerOptions
-
-[対応コンパイラ]  
+# Wiki_Cpp_CimpilerOptions
+ 
 + MSVC
 + GCC
 + AppleClang
